@@ -1,0 +1,2 @@
+#!/bin/sh
+'feh' '--bg-fill' '--force-aliasing' '/home/psi/art/wallpapers/potions-vector.png' 
